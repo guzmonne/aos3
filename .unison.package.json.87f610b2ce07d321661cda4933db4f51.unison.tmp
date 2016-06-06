@@ -24,14 +24,11 @@
   },
   "homepage": "https://github.com/guzmonne/aos3#readme",
   "dependencies": {
-    "flexboxgrid": "^6.3.0",
     "hjs-webpack": "^8.2.0",
     "material-ui": "^0.15.0",
     "react": "^15.1.0",
     "react-dom": "^15.1.0",
-    "react-redux": "^4.4.5",
     "react-tap-event-plugin": "^1.0.0",
-    "redux": "^3.5.2",
     "rxjs-es": "^5.0.0-beta.8"
   },
   "devDependencies": {
